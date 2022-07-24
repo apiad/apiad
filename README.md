@@ -2,7 +2,7 @@
 
 <center>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AlejandroPiad?label=Follow%20on%20Twitter&color=red&style=flat) ![GitHub followers](https://img.shields.io/github/followers/apiad?label=Follow%20on%20Github&style=flat) ![Discord](https://img.shields.io/discord/768779284050477086?style=flat&label=Chat%20on%20Discord)
+![Twitter Follow](https://img.shields.io/twitter/follow/alepiad?label=Follow%20on%20Twitter&color=red&style=flat) ![GitHub followers](https://img.shields.io/github/followers/apiad?label=Follow%20on%20Github&style=flat) ![Discord](https://img.shields.io/discord/768779284050477086?style=flat&label=Chat%20on%20Discord)
 
 </center>
 
