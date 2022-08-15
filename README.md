@@ -14,7 +14,7 @@ My name is 👨Alejandro Piad Morffis. Here are some things about me:
 
 I live in Havana, 🇨🇺Cuba.
 
-I'm currently finishing a 🎓PhD in Computer Science, part-time in Alicante, 🇪🇸Spain.
+I recently finished a 🎓PhD in Computer Science in the domain of NLP and knowledge discovery.
 
 In my free time, I also enjoy 💻[coding](https://apiad.net/about/projects) (mostly in 🐍Python), 🎮playing video games (sadly not much lately), and ✏️[writing](https://apiad.net/about/writing).
 
