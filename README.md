@@ -16,11 +16,11 @@ I live in Havana, 🇨🇺Cuba.
 
 I recently finished a 🎓PhD in Computer Science in the domain of NLP and knowledge discovery.
 
-In my free time, I also enjoy 💻[coding](https://apiad.net/about/projects) (mostly in 🐍Python), 🎮playing video games (sadly not much lately), and ✏️[writing](https://apiad.net/about/writing).
-
 My two passions are 📚[teaching](https://apiad.net/about/teaching) and ⚗️[researching](https://apiad.net/about/research). I teach Programming, Compilers, AI, and a bunch of other stuff at the University of Havana. I also do research there, mostly on how to use artificial intelligence to better understand human languages, and on the democratization of machine learning tools.
 
-You can find me online on 🗨️[Twitter](https://apiad.net/at/twitter), 💼[LinkedIn](https://apiad.net/at/linkedin), 🔥[Reddit](https:apiad.net/at/reddit), 📱[Telegram](https://apiad.net/at/telegram) and 🎥[Youtube](https://apiad.net/at/youtube).
+In my free time, I also enjoy 💻[coding](https://apiad.net/about/projects) (mostly in 🐍Python), 🎮playing video games (sadly not much lately), and ✏️[writing](https://apiad.net/about/writing).
+
+You can find me online on 🗨️[Twitter](https://apiad.net/at/twitter) and 📱[Telegram](https://apiad.net/at/telegram).
 
 ---
 
